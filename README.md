@@ -19,5 +19,4 @@ Download file from website into google Drive
     ```
 8. "/content/drive/My Drive" the location of file will you put
 9. "ulr link" the link of file will you download you can get it with cliget addon after you klick download on the site
-10. 
-11. <br>Alternatif Link with code <a href="https://colab.research.google.com/drive/1YD_o2k9LaXdCe8vgXGBcyiQpz7r5JaXm?usp=sharing" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+ <br>Alternatif Link with code <a href="https://colab.research.google.com/drive/1YD_o2k9LaXdCe8vgXGBcyiQpz7r5JaXm?usp=sharing" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
