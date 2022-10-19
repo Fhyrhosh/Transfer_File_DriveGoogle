@@ -1,7 +1,7 @@
-# Transfer_File_DriveGoogle
+# Transfer_Files_to_GDrive_from_any_site
 Download file from website into google Drive
 1. Isntall cliget addon on FirFox
-2. <a href="https://colab.research.google.com/github/Fhyrhosh/Transfer_File_DriveGoogle/blob/main/Download_to_gdrive.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+2. <a href="https://colab.research.google.com/github/Fhyrhosh/Transfer_File_to_GDrive/blob/main/Download_to_gdrive.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 3. Code to mount GDrive
 -   ```console  
 
